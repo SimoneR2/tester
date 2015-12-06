@@ -4,7 +4,7 @@
     <logicalFolder name="HeaderFiles"
                    displayName="Header Files"
                    projectFiles="true">
-      <itemPath>newfile.h</itemPath>
+      <itemPath>PIC18F4480_config_tester.h</itemPath>
     </logicalFolder>
     <logicalFolder name="LinkerScript"
                    displayName="Linker Files"
@@ -60,7 +60,7 @@
         <property key="asmlist" value="true"/>
         <property key="define-macros" value=""/>
         <property key="extra-include-directories"
-                  value="..\..\..\;..\..\..\LaurTec_PIC_libraries_v_3.3.0\src;..\..\..\LaurTec_PIC_libraries_v_3.3.0\inc;..\..\..\librerie"/>
+                  value="..\LaurTec_PIC_libraries_v_3.3.0\inc;..\LaurTec_PIC_libraries_v_3.3.0\sch;..\LaurTec_PIC_libraries_v_3.3.0\src"/>
         <property key="identifier-length" value="255"/>
         <property key="operation-mode" value="free"/>
         <property key="opt-xc8-compiler-strict_ansi" value="false"/>
